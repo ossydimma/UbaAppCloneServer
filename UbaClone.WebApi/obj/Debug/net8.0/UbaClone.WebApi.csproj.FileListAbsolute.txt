@@ -142,3 +142,4 @@ C:\Users\user\Desktop\DotNet_Projects\UbaClone.WebApi\UbaClone.WebApi\bin\Debug\
 C:\Users\user\Desktop\DotNet_Projects\UbaClone.WebApi\UbaClone.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\user\Desktop\DotNet_Projects\UbaClone.WebApi\UbaClone.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\user\Desktop\DotNet_Projects\UbaClone.WebApi\UbaClone.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\user\Desktop\DotNet_Projects\UbaClone.WebApi\UbaClone.WebApi\obj\Debug\net8.0\UbaClone.WebApi.sourcelink.json
